@@ -31,4 +31,7 @@ They are key-value pairs used to categorize, filter, and track your resources
 Review your settings and click Create user at the bottom right corner of the page
 User is now successfully created
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/347f5919-341e-48d9-b4a4-b12eb04f39cc" />
-On this page, you can email the sign-in instructions or download .csv file, but you are now able to log in with this user
+On this page, you can choose to email the sign-in instructions, download the .csv file, or click Return to users list. For this guide, click Return to users list to view and review the new user you just created
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/b236910e-4fda-490d-825c-0736e4f5d8a3" />
+On the left navigation pane, click on IAM user groups to display the admin group you created
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350f25ee-6a0a-4c22-b775-17a3dea0c56a" />
