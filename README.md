@@ -39,6 +39,7 @@ The admin group now shows one user (Robert) whom we just created. If you click o
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6260cb1-b4f4-47e5-b965-08451e7584db" />
 If you go back to Users and select Robert, you will see that AdministratorAccess is attached to the user as well. However, it is not attached directly; he inherits it through the admin group
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6dae1cf5-b974-4895-897a-85abb9f88542" />
-Once again, in the left navigation pane, click on Dashboard under your account ID you can customize your sign-in url by creating an account alias
+Once again, in the left navigation pane, click on Dashboard under your account ID you can customize your sign-in url by creating an account alias. Input a unique alias a select create alias
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/d711e823-166c-4750-87be-e65b1477901c" />
-
+Alias was successfully created:
+<img width="1920" height="419" alt="image" src="https://github.com/user-attachments/assets/ddae9c49-a5fd-49aa-a920-38e08937149b" />
