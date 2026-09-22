@@ -45,7 +45,7 @@ Alias was successfully created:
 <img width="1920" height="419" alt="image" src="https://github.com/user-attachments/assets/ddae9c49-a5fd-49aa-a920-38e08937149b" />
 To sign in, go to aws login page and select the IAM user and enter either the account ID or the alias 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3177f45d-85c1-4764-9a27-73cbd0517639" />
-When you go to the console sign-in URL and click Next, it will prompt you to enter your IAM username and password
+When you go to the console sign-in URL and click Next, it will prompt you to enter your IAM username and password. Then, simply click Sign in
 <img width="946" height="1017" alt="image" src="https://github.com/user-attachments/assets/31366645-8e31-4c35-8d59-1ba35968005e" />
 You should now be signed in to your new IAM user account
 <img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/1fa9fe3f-e677-486d-b730-0069144ae9fb" />
