@@ -28,3 +28,6 @@ You are then prompted to review and create the user, but just below this is an o
 <img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/75828d2c-01a2-436d-be02-d65d550c7ecf" />
 They are key-value pairs used to categorize, filter, and track your resources
 <img width="1915" height="507" alt="image" src="https://github.com/user-attachments/assets/0e994c60-49b2-48a8-9e8f-3d320f01a65a" />
+Review your settings and click Create user at the bottom right corner of the page
+User is now successfully created
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/347f5919-341e-48d9-b4a4-b12eb04f39cc" />
