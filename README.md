@@ -37,6 +37,6 @@ On the left navigation pane, click on IAM user groups to display the admin group
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7ae631f-808b-4d24-96af-3192d2981889" />
 The admin group now shows one user (Robert) whom we just created. If you click on the group and select the Permissions tab next to the Users tab, you will see that AdministratorAccess is attached to the group
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6260cb1-b4f4-47e5-b965-08451e7584db" />
-If you go back to Users and select Robert, you will see that AdministratorAccess is attached to him as well. However, it is not attached directly; he inherits it through the admin group
+If you go back to Users and select Robert, you will see that AdministratorAccess is attached to the user as well. However, it is not attached directly; he inherits it through the admin group
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6dae1cf5-b974-4895-897a-85abb9f88542" />
 
