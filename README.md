@@ -1,5 +1,6 @@
 # Creating-a-New-User-in-AWS-using-IAM
 Detailed walkthrough of creating a new user in AWS using IAM
+
 Sign in to the AWS Management Console
 <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/4856269e-decc-4055-9efc-81d596ac0ad5" />
 Search for IAM in the search bar
