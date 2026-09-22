@@ -34,4 +34,7 @@ User is now successfully created
 On this page, you can choose to email the sign-in instructions, download the .csv file, or click Return to users list. For this guide, click Return to users list to view and review the new user you just created
 <img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/b236910e-4fda-490d-825c-0736e4f5d8a3" />
 On the left navigation pane, click on IAM user groups to display the admin group you created
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/350f25ee-6a0a-4c22-b775-17a3dea0c56a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e7ae631f-808b-4d24-96af-3192d2981889" />
+The admin group now shows one user (Robert) whom we just created. If you click on the group and select the Permissions tab next to the Users tab, you will see that AdministratorAccess is attached to the group
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f6260cb1-b4f4-47e5-b965-08451e7584db" />
+
