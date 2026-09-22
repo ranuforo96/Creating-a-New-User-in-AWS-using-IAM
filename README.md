@@ -22,3 +22,9 @@ Here, I created a new group called admin
 <img width="1918" height="450" alt="image" src="https://github.com/user-attachments/assets/4feeb003-770a-4d83-beac-a6441223f674" />
 Attach existing policies: Choose predefined permissions like "AdministratorAccess" or specific service permissions, then select create user group to continue
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1080dbe6-5ec3-4d19-9909-5ff8a598d993" />
+Next, I added the new user to the admin group previously created, then hit next to continue
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46904f05-d754-4270-853c-d91ad24ddd6d" />
+You are then prompted to review and create the user, but just below this is an optional tag section: KEY = The category, VALUE = The specific assignment 
+<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/75828d2c-01a2-436d-be02-d65d550c7ecf" />
+They are key-value pairs used to categorize, filter, and track your resources
+<img width="1915" height="507" alt="image" src="https://github.com/user-attachments/assets/0e994c60-49b2-48a8-9e8f-3d320f01a65a" />
