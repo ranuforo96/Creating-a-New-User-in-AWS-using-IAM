@@ -43,3 +43,5 @@ Once again, in the left navigation pane, click on Dashboard under your account I
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/d711e823-166c-4750-87be-e65b1477901c" />
 Alias was successfully created:
 <img width="1920" height="419" alt="image" src="https://github.com/user-attachments/assets/ddae9c49-a5fd-49aa-a920-38e08937149b" />
+To sign in, go to aws login page and select the IAM user and enter either the account ID or the alias 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6c05150-e3f2-4128-ae6e-64479c54a366" />
